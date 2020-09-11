@@ -28,7 +28,7 @@
 |DORMNUM|宿舍门牌号|
 |HOMETOWN|籍贯|
 |PERSONNUM|身份证号|
-|HOME|详细住址 `xx路xx号xx小区`|
+|HOME|详细住址 `xx路xx号xx小区`|  
 |LOCAL|如`河南省-郑州市-中牟县`尽量有连字符
 </div>  
 
